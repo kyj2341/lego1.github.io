@@ -11,31 +11,31 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: oh my logeo
-    text: kkkkkkk
-    button: Tell Me More
+    title: 당신이 레고를 사랑한다면
+    text: 우리는 이미 친구 입니다.
+    button: 함께 하실가요?
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "레고란"
+    text: "레고란 무엇인가에 대해 알아보자"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "레고의 역사"
+        desc: "레고 창업자인 올레는 1891년 4월 7일에 덴마크 필스코프에서 10째로 태어났다. "
+        icon: fas fa-list #find more at https://fontawesome.com/icons
+      - title: "레고의 호환성"
+        desc: "연식에 상관없이 거의 대부분의 브릭이 호환되는 무시무시한 호환성을 가진다."
+        icon: fas fa-bomb
+      - title: "레고의 제작"
+        desc: "무엇을 하든 설계도(설명서)와 블럭만 있으면 만들어 낼 수 있다. 심지어 아예 레고로 복잡한 메카닉의 목업을 만들어 확인한다."
+        icon: fas fa-bone
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "미니피규어 시리즈"
+    text: "레고의 전성기는 미니피규어로 시작한다"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "닫기"
 
     # left is the default
     #start_align: "left"
@@ -65,14 +65,14 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "회사 현황"
+    text: "에 대해서 소개"
+    body: "본사는 덴마크 빌룬(Billund)에 있는데, 원래 작디 작은 동네였지만 레고의 성장에 힘입어 국제공항까지 있는 규모 있는 도시가 되었다. 일종의 기업도시[4]가 된 셈이다. 굉장한 규모의 기업이지만, 아직까지도 주식 시장에 기업공개를 하지 않은 비상장 가족기업이다. 레고 3대 회장인 켈 키르크 크리스티얀센이 창업주 올레의 손자인 점을 포함해서 경영은 대대로 창업주의 자손들이 이어서 하고 있고, 전 세계 곳곳의 지사 역시 창업주의 친척들이 도맡아 관리하고 있다는 말이 있지만, 2004년 파산 직전의 회사를 되살리기 위해 맥킨지 출신의 요르겐 비그 크누스토르프[5]를 CEO로 영입한 이후로는 많이 달라진다. 레고 코리아 역시 전문 경영인인 마이클 에베센과 에릭 폴모젱이 사장으로 있다. 크누스토르프를 이어 2017년 10월부터 레고 본사의 CEO를 맡고 있는 닐스 크리스티안센 역시 맥킨지 컨설턴트 출신의 외부 인사이다."
     section: about
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -92,10 +92,8 @@ en: &DEFAULT_EN
         icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
+      - url: https://google.com
+        icon: "fab fa-google"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 en-US:

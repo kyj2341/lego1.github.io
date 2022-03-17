@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "레고란"
       section: services
-    - title: "Portfolio"
+    - title: "미니피규어 시리즈"
       section: portfolio
     - title: "About"
       section: about
