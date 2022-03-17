@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: 미니피규어 2탄
   subtitle: 큐티한 피규어들
-  thumbnail: assets/img/portfolio/lego-2.png
+  thumbnail: assets/img/portfolio/lego-2.PNG
   
 #what displays when the item is clicked:
 title: 미니피규어 2탄

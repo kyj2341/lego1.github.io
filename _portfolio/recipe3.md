@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: 미니피규어 3탄
   subtitle: 패셔널한 피규어들
-  thumbnail: assets/img/portfolio/lego-3.png
+  thumbnail: assets/img/portfolio/lego-3.PNG
   
 #what displays when the item is clicked:
 title: 미니피규어 3탄
