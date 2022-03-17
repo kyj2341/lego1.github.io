@@ -11,9 +11,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: ""
+theme: jekyll-agency
 
-url    : "https://kyj2341.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : lego company
